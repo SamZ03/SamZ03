@@ -1,6 +1,6 @@
-### Hi there, I'm Sam Zuhal Setiawan 👋
+## Hi there, I'm Sam Zuhal Setiawan 👋
 
-## Currently I'm a Collage Student
+### Currently I'm a Collage Student
 
 - 🔭 I'm now collage student at Mulawarman University
 - 🌱 I’m currently learning everything
