@@ -41,7 +41,7 @@
 [![](https://visitcount.itsvg.in/api?id=samzuhalsetiawan&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ## ☕️ Buy me some coffee
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/samzuhalsetiawan) 
+![Static Badge](https://img.shields.io/badge/Trakteer-be1e2d?style=flat-square&logo=buymeacoffee&logoColor=ffffff&labelColor=be1e2d)
 
 
 ### 👏 Credit
